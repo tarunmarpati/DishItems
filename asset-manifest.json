@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tarunmarpati/DishItems.git/static/css/main.f855e6bc.css",
-    "main.js": "/tarunmarpati/DishItems.git/static/js/main.c80c40b6.js",
-    "static/js/453.1b6cbde4.chunk.js": "/tarunmarpati/DishItems.git/static/js/453.1b6cbde4.chunk.js",
-    "index.html": "/tarunmarpati/DishItems.git/index.html",
-    "main.f855e6bc.css.map": "/tarunmarpati/DishItems.git/static/css/main.f855e6bc.css.map",
-    "main.c80c40b6.js.map": "/tarunmarpati/DishItems.git/static/js/main.c80c40b6.js.map",
-    "453.1b6cbde4.chunk.js.map": "/tarunmarpati/DishItems.git/static/js/453.1b6cbde4.chunk.js.map"
+    "main.css": "/tarunmarpati/DishItems/static/css/main.f855e6bc.css",
+    "main.js": "/tarunmarpati/DishItems/static/js/main.cc35bac0.js",
+    "static/js/453.1b6cbde4.chunk.js": "/tarunmarpati/DishItems/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/tarunmarpati/DishItems/index.html",
+    "main.f855e6bc.css.map": "/tarunmarpati/DishItems/static/css/main.f855e6bc.css.map",
+    "main.cc35bac0.js.map": "/tarunmarpati/DishItems/static/js/main.cc35bac0.js.map",
+    "453.1b6cbde4.chunk.js.map": "/tarunmarpati/DishItems/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c80c40b6.js"
+    "static/js/main.cc35bac0.js"
   ]
 }
